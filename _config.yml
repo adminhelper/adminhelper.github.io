@@ -4,7 +4,9 @@ description:        Blog build
 author:             Test
 baseurl:            ""
 url:                "https://adminhelper.github.io"
-
+urls:
+    - text: tttt
+      url: /ttt
 # Social Profiles
 twitter_username:   SBootstrap
 github_username:    adminhelper
